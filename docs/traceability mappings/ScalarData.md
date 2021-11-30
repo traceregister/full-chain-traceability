@@ -94,7 +94,6 @@ The following GUI Types are allowed for scalar data:
 * **Location**
 * **TradingPartner**
 * **ProductDefinition**
-* **TradingPartnerXRef**
 * **FishingMethod**
 * **RearingMethod**
 * **ProcessingMethod**
